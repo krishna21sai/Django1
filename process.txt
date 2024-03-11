@@ -1,0 +1,23 @@
+-->create a folder of django
+
+create the virtual environment
+
+-->enter the command py -m venv myworld
+
+to activate the environment
+
+-->myworld\Scripts\activate.bat
+
+install django
+
+-->py -m  pip install Django
+
+next create the app
+
+-->django-admin startproject myapp
+
+navigate to the myapp folder
+
+-->cd myapp
+
+this is basic django creation
